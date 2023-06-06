@@ -1,1 +1,1 @@
-# Computer_garphics_LAB_ft_GLUT
+# Computer_garphics_LAB using GLUT
